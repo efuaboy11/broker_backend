@@ -10,7 +10,7 @@ def send_email(to_email, message, subject):
     msg['To'] = to_email
 
     try:
-        with smtplib.SMTP('smtp.hostinger.com', 465) as server:
+        with smtplib.SMTP('smtp.hostinger.com', 587) as server:
             server.starttls()
             server.login(settings.EMAIL_HOST_USER, settings.EMAIL_HOST_PASSWORD)
             server.send_message(msg)
