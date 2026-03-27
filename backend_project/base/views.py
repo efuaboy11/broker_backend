@@ -118,7 +118,7 @@ class Users(generics.ListCreateAPIView):
                                     <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border-radius: 8px; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
                                         <tr>
                                             <td style="padding: 20px 0; text-align: center;">
-                                                <h2 style="color: #4CAF50; font-size: 24px; margin: 0;">Welcome to AmanlightEquity Investment!</h2>
+                                                <h2 style="color: #4CAF50; font-size: 24px; margin: 0;">Welcome to veloxarion.com Investment!</h2>
                                             </td>
                                         </tr>
                                         <tr>
@@ -130,7 +130,7 @@ class Users(generics.ListCreateAPIView):
                                         </tr>
                                         <tr>
                                             <td style="padding: 20px 0; text-align: center; font-size: 12px; color: #888888;">
-                                                <p>&copy; 2024 AmanlightEquity Investment. All Rights Reserved.</p>
+                                                <p>&copy; 2026 veloxarion.com Investment. All Rights Reserved.</p>
                                             </td>
                                         </tr>
                                     </table>
@@ -392,7 +392,7 @@ class UserVerifiactionDetailsView(generics.ListCreateAPIView):
                                         </tr>
                                         <tr>
                                             <td style="padding: 20px 0; text-align: center; font-size: 12px; color: #888888;">
-                                                <p>&copy; 2024 Your Company Name. All Rights Reserved.</p>
+                                                <p>&copy; veloxarion.com. All Rights Reserved.</p>
                                             </td>
                                         </tr>
                                     </table>
@@ -558,7 +558,7 @@ class AllDepositsView(generics.ListCreateAPIView):
                                         </tr>
                                         <tr>
                                             <td style="padding: 20px 0; text-align: center; font-size: 12px; color: #888888;">
-                                                <p>&copy; 2024 Your Company Name. All Rights Reserved.</p>
+                                                <p>&copy; veloxarion.com. All Rights Reserved.</p>
                                             </td>
                                         </tr>
                                     </table>
@@ -1446,7 +1446,7 @@ class BonusView(generics.ListCreateAPIView):
                                         </tr>
                                         <tr>
                                             <td style="padding: 20px 0; text-align: center; font-size: 12px; color: #888888;">
-                                                <p>&copy; 2024 Your Company Name. All Rights Reserved.</p>
+                                                <p>&copy; veloxarion.com. All Rights Reserved.</p>
                                             </td>
                                         </tr>
                                     </table>
@@ -1604,7 +1604,7 @@ class SendEmailView(generics.ListAPIView):
                                     </tr>
                                     <tr>
                                         <td style="padding: 20px 0; text-align: center; font-size: 12px; color: #888888;">
-                                            <p>&copy; 2024 Your Company Name. All Rights Reserved.</p>
+                                            <p>&copy; veloxarion.com. All Rights Reserved.</p>
                                         </td>
                                     </tr>
                                 </table>
@@ -1751,7 +1751,7 @@ class ContactUsView(APIView):
                                     </tr>
                                     <tr>
                                         <td style="padding: 20px 0; text-align: center; font-size: 12px; color: #888888;">
-                                            <p>&copy; 2024 Your Company Name. All Rights Reserved.</p>
+                                            <p>&copy; veloxarion.com. All Rights Reserved.</p>
                                         </td>
                                     </tr>
                                 </table>
